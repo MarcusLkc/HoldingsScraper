@@ -37,7 +37,7 @@ class FileReader(object):
         if not self.holdings:
             print("There is nothing to save")
             return False
-        file_name = self.ticker + '-' + self.file_type + self.date + '.txt'
+        file_name = self.ticker + '-' + self.file_type + self.date + '.csv'
 
         with open(file_name, 'w', newline='') as f:
             writer = csv.writer(f, delimiter='\t')

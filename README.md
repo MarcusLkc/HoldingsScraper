@@ -2,6 +2,10 @@ This Web scraper was built for the purpose of Scraping 13-F Company Holdings fro
 You can go here and enter a tiker value such as blk in the fast search section for examples
 https://www.sec.gov/edgar/searchedgar/companysearch.html
 
+# Demo
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/26131181/54400152-db042a00-4697-11e9-9834-f79609eed0c5.gif)
+
 ## Steps
 
 This is how I stepped through the problem.
